@@ -1,4 +1,4 @@
-# PDiagnose GUI
+# PDiagnose 
 
 A Python-based application that provides a user-friendly interface for Parkinson's Disease detection through spiral drawing analysis, inspired by [Robin T. White's research work](https://github.com/robintwhite/parkinsons-sketch).
 
